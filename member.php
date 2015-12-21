@@ -1,3 +1,4 @@
+//edit member disisni
 <?php
 	session_start();
 	if($_SESSION['satu']=="terhubung")
