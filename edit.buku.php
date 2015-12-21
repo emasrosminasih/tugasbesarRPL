@@ -1,3 +1,4 @@
+//edit buku disini
 <?php
 	session_start();
 	if($_SESSION['satu']=="terhubung")
